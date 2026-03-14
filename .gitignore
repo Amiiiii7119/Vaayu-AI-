@@ -1,0 +1,7 @@
+dataset/station_hour.csv
+dataset/city_hour.csv
+dataset/station_day.csv
+dataset/city_day.csv
+dataset/stations.csv
+venv/
+__pycache__/
